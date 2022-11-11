@@ -3,8 +3,7 @@ This repository provides codes, models and data for paper "A fully automatic fra
 
 ![BREAST-COSMESIS flowchart](./figures/flowchart2.png?raw=true)
 
-To contribute to open-access research, all the codes and trained models and part of the data will are released at:
-
+To contribute to open-access research, all the codes, trained models and data are released at:
 https://codeocean.com/capsule/2887058/tree
 
 If the repository, the paper or any of its content is useful for your research, please cite:
